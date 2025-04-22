@@ -1,0 +1,10 @@
+IntsProf DEFINITIONS ::= BEGIN
+
+	IntegerProfile ::= SEQUENCE {
+		max INTEGER,
+		min INTEGER,
+		sum INTEGER,
+		cnt INTEGER
+	}
+
+END
